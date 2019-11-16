@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335545766606",
+    "firebase_url": "https://ones-9b1ba.firebaseio.com",
+    "project_id": "ones-9b1ba",
+    "storage_bucket": "ones-9b1ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335545766606:android:01b16c5b0c48a06043b69f",
+        "android_client_info": {
+          "package_name": "com.boteon.ninja_pacman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335545766606-2tkf9f49ep6s2h84epkg2f49a8j651b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOYpLQTI9ve9cfkLCAjxw0p_1iONZtf_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335545766606-2tkf9f49ep6s2h84epkg2f49a8j651b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
